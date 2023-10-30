@@ -9,7 +9,7 @@ const preloader = document.querySelector("#preloader");
 
 // делаем расчёты
 const currentYear = new Date().getFullYear();
-const nextYear = new Date(`December 20 ${currentYear} 00:00:00`);
+const nextYear = new Date(`October 20 ${currentYear} 00:00:00`);
 
 // // устанавливаем год на страницу
 // year.innerHTML = currentYear > -1 ? currentYear :  currentYear + 1;
